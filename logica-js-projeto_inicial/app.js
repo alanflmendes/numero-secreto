@@ -11,8 +11,7 @@ let idade = prompt('Digite a sua idade');
 if (idade >= 18){
     alert('Pode tirar habilitação')
 }else{
-    alert("Vá se lascar")
-}
+    alert("Vá se lascar") //testando git
 
 let diaSemana = prompt('Qual o dia da semana?').toLowerCase(); // Converte para minúsculas
 if (diaSemana === "sábado" || diaSemana === "domingo") {
