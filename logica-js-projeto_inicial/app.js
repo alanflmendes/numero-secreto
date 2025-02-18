@@ -5,7 +5,7 @@ let numeroDeVendas = 50
 let saldoDisponivel = 1000
 let mensagemDeErro = "Erro! Preencha todos os campos"
 alert(mensagemDeErro)
-let nome = prompt("Digite aqui sua idade:");
+let nome = prompt("Digite aqui sua idade:"); //testando git hub
 let idade = prompt('Digite a sua idade');
 let idade = prompt('Digite a sua idade');
 if (idade >= 18){
@@ -17,7 +17,7 @@ let diaSemana = prompt('Qual o dia da semana?').toLowerCase(); // Converte para 
 if (diaSemana === "sábado" || diaSemana === "domingo") {
     alert('Bom fim de semana!');
 } else {
-    alert('Boa semana!');
+    alert('Boa semana!'); // testando commit
 }
 
 let numero = prompt('Digite um número:'); // Converte a entrada para número
